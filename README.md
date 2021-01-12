@@ -71,4 +71,4 @@ Mergulhe de cabeça nos dados!
 - Salvando e carregando o modelo
 - Novo Projeto
 
- *Curso **NÃO** finalizado: [**CERTIFICADO**]() do curso.*
+ *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-modelo-regressao-linear) do curso.*
