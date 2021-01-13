@@ -72,3 +72,12 @@ Mergulhe de cabeça nos dados!
 - Novo Projeto
 
  *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-modelo-regressao-linear) do curso.*
+ 
+ **CURSO 6: Regressão Linear: Técnicas Avançadas de Modelagem**
+ - Análises preliminares
+ - Análises gráficas
+ - Transformação de variáveis
+ - Regressão linear com StatsModels
+ - Regressão linear com Scikit Learn
+ 
+ *Curso **NÃO** finalizado: [**CERTIFICADO**]() do curso.*
