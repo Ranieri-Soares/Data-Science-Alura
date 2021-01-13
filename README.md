@@ -4,7 +4,7 @@ Depois de realizar o curso de **Desenvolvimento Mobile** pelo projeto **SP TECH 
 ## Descrição do curso:
 Com o avanço da tecnologia, está cada vez maior a quantidade de dados disponíveis para análises mais avançadas. Desta forma, a área de  **Ciência de Dados**  floresceu auxiliando empresas e profissionais em suas tomadas de decisões: por isso, cresce também a demanda por especialistas na área.
 
--   #### **Por que estudar Data Science?**
+- #### **Por que estudar Data Science?**
     
 Para aprender técnicas de análise de dados, estatística, modelagem e visualização na prática, escalando o crescimento e trazer novas oportunidades, seja na empresa onde você trabalha ou no seu próprio negócio.
 
@@ -20,7 +20,7 @@ Mergulhe de cabeça nos dados!
 
 **CURSO 1: Data Science: Primeiros passos**
  - Data Science: dados e visualizações 
- - Ver primeiro vídeo Análise exploratória 
+ - Análise exploratória 
  - Variáveis 
  - Data visualization 
  - Continuando com visualização 
@@ -29,7 +29,8 @@ Mergulhe de cabeça nos dados!
 *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-primeiros-passos) do curso.*
 
  **CURSO 2: Python Pandas: Tratando e analisando dados**
- - Conhecendo Jupyter Importando dados 
+ - Conhecendo Jupyter 
+ - Importando dados 
  - Series e Index 
  - Filtrando dados
  - Frequências de imóveis 
@@ -41,7 +42,7 @@ Mergulhe de cabeça nos dados!
  *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/introducao-python-pandas) do curso.*
  
  **CURSO 3: Estatística com Python parte 1: Frequências e Medidas** 
- - Qual o seu tipo de dado? Ver primeiro vídeo
+ - Qual o seu tipo de dado? 
  - Distribuição de frequência
  - Medidas de tendência central
  - Medidas separatrizes
@@ -52,7 +53,6 @@ Mergulhe de cabeça nos dados!
  
  **CURSO 4: Estatística com Python parte 2: Probabilidade e Amostragem**
  - Distribuição binomial 
- - Ver primeiro vídeo 
  - Distribuição de Poisson
  - Distribuição normal 
  - Técnicas de amostragem 
@@ -63,7 +63,7 @@ Mergulhe de cabeça nos dados!
  *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/estatistica-probabilidade-e-amostragem) do curso.*
 
 **CURSO 5: Regressão Linear: Testando Relações e Prevendo Resultados**
-- Análises preliminares Ver primeiro vídeo
+- Análises preliminares
 - Comportamento da variável dependente
 - Variável dependente vs Variáveis explicativas
 - Datasets de treino e teste
