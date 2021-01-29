@@ -80,4 +80,24 @@ Mergulhe de cabeça nos dados!
  - Regressão linear com StatsModels
  - Regressão linear com Scikit Learn
  
- *Curso **NÃO** finalizado: [**CERTIFICADO**]() do curso.*
+ *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-modelo-regressao-linear-assimetria-statsmodel) do curso.*
+ 
+ **CURSO 7: Data Science: análise de séries temporais para previsão**
+ 
+- Entendendo o problema
+- Tratamento e estacionariedade
+- Previsão por suavização
+- Modelo autorregressivo
+- Verificando os resultados
+
+*Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-time-series) do curso.*
+
+**CURSO 8: Data Visualization parte 1: introdução ao design de gráficos**
+
+- Entendendo o uso dos gráficos para a visualização
+- Analisando dados da Ana, João e Camila
+- Vendo como passar informação e usando fórmulas para explorar os dados
+- O problema do gráfico de pizza
+- Usando gráficos de colunas e barras
+
+*Curso **NÃO** finalizado: [**CERTIFICADO**]() do curso.*
