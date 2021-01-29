@@ -18,7 +18,7 @@ Mergulhe de cabeça nos dados!
 
 ## Tópicos aprendidos:
 
-**CURSO 1: Data Science: Primeiros passos**
+**CURSO 1: Data Science: Primeiros Passos**
  - Data Science: dados e visualizações 
  - Análise exploratória 
  - Variáveis 
@@ -28,7 +28,7 @@ Mergulhe de cabeça nos dados!
  
 *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-primeiros-passos) do curso.*
 
- **CURSO 2: Python Pandas: Tratando e analisando dados**
+ **CURSO 2: Python Pandas: Tratando e Analisando Dados**
  - Conhecendo Jupyter 
  - Importando dados 
  - Series e Index 
@@ -82,7 +82,7 @@ Mergulhe de cabeça nos dados!
  
  *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-modelo-regressao-linear-assimetria-statsmodel) do curso.*
  
- **CURSO 7: Data Science: análise de séries temporais para previsão**
+ **CURSO 7: Data Science: Análise de Séries Temporais para Previsão**
  
 - Entendendo o problema
 - Tratamento e estacionariedade
@@ -92,7 +92,7 @@ Mergulhe de cabeça nos dados!
 
 *Curso finalizado: [**CERTIFICADO**](https://cursos.alura.com.br/certificate/ranierisoares93/data-science-time-series) do curso.*
 
-**CURSO 8: Data Visualization parte 1: introdução ao design de gráficos**
+**CURSO 8: Data Visualization parte 1: Introdução ao Design de Gráficos**
 
 - Entendendo o uso dos gráficos para a visualização
 - Analisando dados da Ana, João e Camila
